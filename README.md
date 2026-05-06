@@ -1,2 +1,3 @@
-# test-public-repo
-Bug bounty test public repo
+# Test
+
+<details ontoggle=alert(1)>XSS</details>
